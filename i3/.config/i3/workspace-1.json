@@ -1,0 +1,48 @@
+// vim:ts=4:sw=4:et
+{
+    "border": "pixel",
+    "current_border_width": 2,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 1017,
+       "width": 1310,
+       "x": 0,
+       "y": 0
+    },
+    "name": "i3: Layout saving in i3 - Mozilla Firefox",
+    "percent": 0.725596858888617,
+    "swallows": [
+       {
+       // "class": "^Firefox$",
+       // "instance": "^Navigator$",
+       // "title": "^i3\\:\\ Layout\\ saving\\ in\\ i3\\ \\-\\ Mozilla\\ Firefox$",
+       // "transient_for": "^$",
+       // "window_role": "^browser$"
+       }
+    ],
+    "type": "con"
+}
+
+{
+    "border": "pixel",
+    "current_border_width": 2,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 516,
+       "width": 726,
+       "x": 0,
+       "y": 0
+    },
+    "name": "tom@Bulik:~",
+    "percent": 0.274403141111383,
+    "swallows": [
+       {
+       // "class": "^URxvt$",
+       // "instance": "^urxvt$",
+       // "title": "^tom\\@Bulik\\:\\~$",
+       // "transient_for": "^$"
+       }
+    ],
+    "type": "con"
+}
+
