@@ -167,11 +167,15 @@ bindsym $mod+r mode "resize"
 # finds out, if available)
 bar {
         position top
+        font pango:Source Code Pro 9
         status_command SCRIPT_DIR=~/.config/i3/i3blocks-contrib i3blocks
 }
 
 #Focus should not follow mouse
 focus_follows_mouse no
+
+#launch gnome settings to transfer GTK3 settings
+exec --no-startup-id gnome-settings-daemon
 
 #launch a compositor
 exec --no-startup-id compton -b
